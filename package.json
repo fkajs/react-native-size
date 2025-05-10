@@ -1,9 +1,11 @@
 {
   "name": "@fka/react-native-size",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A tool that can convert design draft dimensions into DP (density-independent pixels) units used in React Native.",
   "keywords": ["react-native", "react-native-size", "pxToDp", "react-native-scale"],
   "main": "lib/index.js",
+  "git": "https://github.com/fkajs/react-native-size.git",
+  "homepage": "https://github.com/fkajs/react-native-size",
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc"
